@@ -1,7 +1,6 @@
 ![FullLogo_Transparent_NoBuffer](https://github.com/unauthorized-403/403-ThreatHunt/assets/169030525/746583d2-b201-4e18-9824-5c89c278bb86)
 
-<h1>403 Threat Hunt</h1>
-<h2>Description</h2>
+<h2>403 Threat Hunt Description</h2>
 <p>This repositry aims to document threat hunting queries and serve as a reference point for threat hunters for their daily jobs.</p>
 <p></p>
 <p>Some of the queries from this project can be used as detection rule after approprate tuning based on your environment.</p>
