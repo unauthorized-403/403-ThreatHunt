@@ -3,10 +3,11 @@
 <h1>403 Threat Hunt</h1>
 <h2>Description</h2>
 <p>This repositry aims to document threat hunting queries and serve as a reference point for threat hunters for their daily jobs.\nSome of the queries from this project can be used as detection rule after approprate tuning based on your environment.</p>
+<p></p>
 <p>All threat hunting queries from blog.403.co.nz will be categorized and re-located to appropriate MITRE ATTACK techniques within the project, as well as translated into multiple query languages. The following languages are supported:</p>
 <ul>
-  <item>SentinelOne</item>
-  <item>Sigma</item>
-  <item>Yara</item>
-  <item>Elastic Search</item>
+  <li>SentinelOne</li>
+  <li>Sigma</li>
+  <li>Yara</li>
+  <li>Elastic Search</li>
 </ul>
