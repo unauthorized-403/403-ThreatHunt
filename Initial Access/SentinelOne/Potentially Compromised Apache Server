@@ -1,0 +1,1 @@
+src.process.parent.name contains:anycase "apache" AND (src.process.cmdline contains:anycase "cmd.exe" AND src.process.cmdline contains:anycase "net")
