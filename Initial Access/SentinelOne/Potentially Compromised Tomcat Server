@@ -1,0 +1,1 @@
+event.type = "Process Creation" AND src.process.name contains:anycase "tomcat" AND tgt.process.cmdline contains:anycase "whoami"
