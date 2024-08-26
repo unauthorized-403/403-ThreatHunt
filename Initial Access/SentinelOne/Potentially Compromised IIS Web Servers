@@ -1,0 +1,1 @@
+src.process.user contains:anycase "IIS APPPOOL" AND tgt.process.name in:anycase ('cmd.exe', 'powershell.exe', 'powershell_ise.exe', 'pwsh.exe')
